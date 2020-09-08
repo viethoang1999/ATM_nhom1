@@ -41,8 +41,6 @@ public class THONGTIN extends javax.swing.JFrame {
 
         jLabel2.setText("HỌ TÊN");
 
-        jTextField1.setText("jTextField1");
-
         jLabel3.setText("STK");
 
         jButton1.setText("ĐỒNG Ý");
